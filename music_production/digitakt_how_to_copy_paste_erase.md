@@ -1,6 +1,12 @@
 # Digitakt II - How to copy / paste / erase
 
-## Clear
+## Glossary
+
+- Track sequence - all notes/trigs/automations of a given track, within a given pattern
+- Page/Bar - TBD
+- Pattern - TDB
+
+## Operations
 
 ### Clear Track preset
 
@@ -9,12 +15,14 @@ Clears the preset but keeps the notes.
 - Select a track with [TRK] + [TRIG]
 - Press [TRK] + [PLAY]
 
-### Clear a single track page only
+### Operations on single page/bar (of a track sequence) pages only
 
 - In recording mode
 - Select a Track
 - Press [PAGE] to select the page
 - then press [PAGE] + [PLAY] to clear just that page **of the track**
+- then press [PAGE] + [RECORD] to copy just that page **of the track**
+- then press [PAGE] + [STOP] to paste just that page **of the track**
 
 ### Clear the sequence (all trigs, notes)
 
