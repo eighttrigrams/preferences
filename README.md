@@ -1,7 +1,7 @@
 # Preferences
 
 See also
-- [eighttrigrams/clojure-claude-and-mcp-knowledge](https://github.com/eighttrigrams/clojure-claude-and-mcp-knowledge/blob/master/README.md)
+- [eighttrigrams/claude-stuff](https://github.com/eighttrigrams/claude-stuff/blob/master/README.md)
 - https://context7.com - Up-to-date documentation for LLMs and AI code editors
 
 Goals
@@ -16,7 +16,7 @@ Goals
 ### Misc
 
 - [mcps](./mcps.md) MCPs for Claude Code
-  - See also [eighttrigrams/clojure-claude-and-mcp-knowledge](https://github.com/eighttrigrams/clojure-claude-and-mcp-knowledge/blob/master/README.md)
+  - See also [eighttrigrams/claude-stuff](https://github.com/eighttrigrams/claude-stuff/blob/master/README.md)
 
 ### Recipes
 
